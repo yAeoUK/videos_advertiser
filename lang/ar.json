@@ -1,0 +1,14 @@
+{
+    "USERNAME":"اسم المستخدم",
+    "PASSWORD":"كلمة السر",
+    "OK":"موافقٍ",
+    "ERROR":"خطأ",
+    "NO_CONNECTION_PLEASE_TRY_AGAIN_LATER":"لا يوجد اتصال، يرجى المحاولة لاحقاً",
+    "LOADING":"يتم الآن التحميل",
+    "CONNECTING_TO_SERVER_PLEASE_WAIT":"يتم الآن الاتصال بالخادم، يرجى الانتظار",
+    "WRONG_DATA":"بيانات خاطئة",
+    "CHECK_USERNAME_PASSWORD_TRY_AGAIN":"تأكد من البيانات المدخلة وحاول مجدداً",
+    "ENTER_USERNAME":"يرجى إدخال اسم المستخدم",
+    "ENTER_PASSWORD":"يرجى إدخال كلمة السر",
+    "VIDEOS":"الفيديوهات"
+}

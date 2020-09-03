@@ -1,0 +1,14 @@
+{
+    "USERNAME":"Username",
+    "PASSWORD":"Password",
+    "OK":"OK",
+    "ERROR":"ERROR",
+    "NO_CONNECTION_PLEASE_TRY_AGAIN_LATER":"No connection, please try again later",
+    "LOADING":"Loading",
+    "CONNECTING_TO_SERVER_PLEASE_WAIT":"Connecting to server, please wait",
+    "WRONG_DATA":"Wrong data",
+    "CHECK_USERNAME_PASSWORD_TRY_AGAIN":"Check entered data and try again",
+    "ENTER_USERNAME":"Please enter the username",
+    "ENTER_PASSWORD":"Please enter the password",
+    "VIDEOS":"Videos"
+}
